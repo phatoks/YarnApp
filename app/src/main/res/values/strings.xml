@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yarn</string>
+    <string name="title_people">People</string>
+    <string name="title_account">MyAccount</string>
+</resources>
